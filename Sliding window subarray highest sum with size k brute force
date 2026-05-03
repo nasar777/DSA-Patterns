@@ -21,3 +21,6 @@ class Main {
     }
     
 }
+
+Time Complexity: O(n × sal) (worst case O(n²))
+Space Complexity: O(1)
